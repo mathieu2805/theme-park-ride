@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Bean;
 
 import com.exemple.model.ThemeParkRide;
 import com.exemple.repository.ThemeParkRideRepository;
-
+tutut test erreur
 @SpringBootApplication
 public class ThemeParkRideApplication {
 
